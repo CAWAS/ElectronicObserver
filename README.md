@@ -1,5 +1,6 @@
-
 ## 七四式電子観測儀拡張版 / ElectronicObserverExtended (EOE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCAWAS%2FElectronicObserverExtended.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCAWAS%2FElectronicObserverExtended?ref=badge_shield)
+
 
 現在鋭意開発中の艦これ補助ブラウザです。  
 
@@ -72,6 +73,9 @@ To maintain compatibility with plugins developed for tsanie's fork, ElectronicOb
 	* [LZMA SDK (Software Development Kit)](http://www.7-zip.org/sdk.html) - Public Domain
 * [FiddlerCore](http://www.telerik.com/fiddler/fiddlercore) - [End User License Agreement for FiddlerCore](https://github.com/CAWAS/ElectronicObserverExtended/blob/extended/Licenses/FiddlerCore.txt)
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCAWAS%2FElectronicObserverExtended.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCAWAS%2FElectronicObserverExtended?ref=badge_large)
 
 ## 連絡先など
 
